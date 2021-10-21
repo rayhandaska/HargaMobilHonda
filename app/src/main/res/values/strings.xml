@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">HARGA MOBIL HONDA</string>
+
+    <string name="namamobil">Nama Mobil</string>
+    <string name="seri">Seri</string>
+    <string name="seri_mockup">A3</string>
+    <string name="rating">Rating</string>
+    <string name="rating_mockup">4.10 / 5</string>
+    <string name="tahun">Tahun</string>
+    <string name="tahun_mockup">2021</string>
+    <string name="harga">Harga</string>
+    <string name="harga_mockup">Rp.340.000.000</string>
+    <string name="keterangan">Tentang Mobil</string>
+    <string name="keterangan_mockup">Lorem Ipsum Dolor Sit amet</string>
+
+    <string-array name="datanamamobil">
+        <item>BRIO</item>
+        <item>BRIO</item>
+        <item>BRIO</item>
+        <item>HRV</item>
+        <item>HRV</item>
+        <item>BRV</item>
+        <item>CRV</item>
+        <item>CRV</item>
+        <item>CRV</item>
+        <item>CIVIC</item>
+        <item>CIVIC</item>
+        <item>Mobilio</item>
+        <item>Mobilio</item>
+        <item>ODYSSEY</item>
+        <item>ACCORD</item>
+        <item>CITY</item>
+        <item>CITY</item>
+    </string-array>
+
+    <array name="datagambar">
+        <item>@drawable/brio_rs_mt</item>
+        <item>@drawable/brio_s_mt</item>
+        <item>@drawable/brio_satya_e_cvt</item>
+        <item>@drawable/hrv_15_e_cvt_special_edition</item>
+        <item>@drawable/hrv_18_cvt_prestige_two_tone</item>
+        <item>@drawable/brv_cvt_prestige</item>
+        <item>@drawable/crv_15_cvt_turbo</item>
+        <item>@drawable/crv_15_cvt_turbo_prestige</item>
+        <item>@drawable/crv_20_cvt</item>
+        <item>@drawable/civic_15_es_turbo</item>
+        <item>@drawable/civic_hatchback_15_e_cvt_turbo</item>
+        <item>@drawable/mobilio_rs_cvt_two_tone</item>
+        <item>@drawable/mobilio_rs_mt_two_tone</item>
+        <item>@drawable/odyssey_24l_prestige</item>
+        <item>@drawable/accord_15tc_el_cvt</item>
+        <item>@drawable/city_e_15_cvt</item>
+        <item>@drawable/city_e_15_mt</item>
+    </array>
+
+    <string-array name="datatahun">
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+        <item>2021</item>
+    </string-array>
+
+    <string-array name="dataseri">
+        <item>RS MT</item>
+        <item>Satya S MT</item>
+        <item>Satya E CVT</item>
+        <item>1.5 E CVT Special Edition</item>
+        <item>1.8 CVT Prestige (Two Tone)</item>
+        <item>CVT Prestige</item>
+        <item>1.5 CVT TURBO</item>
+        <item>1.5 CVT TURBO PRESTIGE</item>
+        <item>2.0 CVT</item>
+        <item>1.5 ES Turbo</item>
+        <item>Hatchback 1.5 E CVT Turbo</item>
+        <item>RS CVT (Two Tone)</item>
+        <item>RS MT (Two Tone)</item>
+        <item>2.4L PRESTIGE</item>
+        <item>1.5TC EL CVT</item>
+        <item>E 1.5 CVT</item>
+        <item>E 1.5 MT</item>
+    </string-array>
+
+    <string-array name="datarating">
+        <item>4.30 / 5</item>
+        <item>4.15 / 5</item>
+        <item>4.30 / 5</item>
+        <item>4.00 / 5</item>
+        <item>4.77 / 5</item>
+        <item>3.95 / 5</item>
+        <item>4.12 / 5</item>
+        <item>4.20 / 5</item>
+        <item>4.50 / 5</item>
+        <item>3.99 / 5</item>
+        <item>3.96 / 5</item>
+        <item>4.12 / 5</item>
+        <item>4.09 / 5</item>
+        <item>4.04 / 5</item>
+        <item>4.24 / 5</item>
+        <item>4.35 / 5</item>
+        <item>4.12 / 5</item>
+
+    </string-array>
+
+    <string-array name="dataharga">
+        <item>Rp.190.000.000</item>
+        <item>Rp.151.000.000</item>
+        <item>Rp.175.000.000</item>
+        <item>Rp.359.000.000</item>
+        <item>Rp.429.000.000</item>
+        <item>Rp.298.000.000</item>
+        <item>Rp.507.000.000</item>
+        <item>Rp.548.000.000</item>
+        <item>Rp.473.000.000</item>
+        <item>Rp.536.500.000</item>
+        <item>Rp.472.000.000</item>
+        <item>Rp.266.500.000</item>
+        <item>Rp.255.500.000</item>
+        <item>Rp.780.700.000</item>
+        <item>Rp.734.100.000</item>
+        <item>Rp.355.500.000</item>
+        <item>Rp.337.000.000</item>
+
+
+    </string-array>
+
+
+    <string-array name="dataketerangan">
+        <item>Honda Brio adalah papan nama mobil yang digunakan oleh Honda terutama untuk city car subkompak mereka yang dijual di Asia Tenggara dan daerah lainnya. Ini diperkenalkan pada tahun 2011 dan diposisikan sebagai mobil entry-level di bawah Fit / Jazz. Ini adalah mobil terkecil di line-up global Honda, tidak termasuk mobil kepasar Jepang.
+
+Nama Brio berarti vivacity atau verve dalam bahasa Italia. Di Indonesia, Brio memiliki nama tambahan yang terinspirasi Indonesia untuk mematuhi program LCGC (Low Cost Green Car) negara tersebut. Nama Satya(sansekerta:benar, asli, tulus atau setia) digunakan sebagai akhiran.</item>
+        <item>Honda Brio adalah papan nama mobil yang digunakan oleh Honda terutama untuk city car subkompak mereka yang dijual di Asia Tenggara dan daerah lainnya. Ini diperkenalkan pada tahun 2011 dan diposisikan sebagai mobil entry-level di bawah Fit / Jazz. Ini adalah mobil terkecil di line-up global Honda, tidak termasuk mobil kepasar Jepang.
+
+Nama Brio berarti vivacity atau verve dalam bahasa Italia. Di Indonesia, Brio memiliki nama tambahan yang terinspirasi Indonesia untuk mematuhi program LCGC (Low Cost Green Car) negara tersebut. Nama Satya(sansekerta:benar, asli, tulus atau setia) digunakan sebagai akhiran.</item>
+        <item>Honda Brio adalah papan nama mobil yang digunakan oleh Honda terutama untuk city car subkompak mereka yang dijual di Asia Tenggara dan daerah lainnya. Ini diperkenalkan pada tahun 2011 dan diposisikan sebagai mobil entry-level di bawah Fit / Jazz. Ini adalah mobil terkecil di line-up global Honda, tidak termasuk mobil kepasar Jepang.
+
+Nama Brio berarti vivacity atau verve dalam bahasa Italia. Di Indonesia, Brio memiliki nama tambahan yang terinspirasi Indonesia untuk mematuhi program LCGC (Low Cost Green Car) negara tersebut. Nama Satya(sansekerta:benar, asli, tulus atau setia) digunakan sebagai akhiran.</item>
+        <item>Honda HR-V adalah sebuah mobil SUV mini yang diproduksi oleh Honda pada tahun 1998 sampai 2006 lalu dari tahun 2014 sampai sekarang. Generasi pertama HR-V berbasis dari Logo dan dijual di Jepang dan beberapa negara di Asia-Pasifik dari tahun 1998 sampai 2006. Generasi kedua HR-V berbasis dari Fit/Jazz generasi ketiga dan mulai dijual di Amerika Serikat, Brasil, Australia, dan beberapa negara di Asia sejak tahun 2015. Generasi kedua HR-V hampir identik dengan Vezel yang hanya dijual di Jepang sejak akhir tahun 2013.</item>
+        <item>Honda HR-V adalah sebuah mobil SUV mini yang diproduksi oleh Honda pada tahun 1998 sampai 2006 lalu dari tahun 2014 sampai sekarang. Generasi pertama HR-V berbasis dari Logo dan dijual di Jepang dan beberapa negara di Asia-Pasifik dari tahun 1998 sampai 2006. Generasi kedua HR-V berbasis dari Fit/Jazz generasi ketiga dan mulai dijual di Amerika Serikat, Brasil, Australia, dan beberapa negara di Asia sejak tahun 2015. Generasi kedua HR-V hampir identik dengan Vezel yang hanya dijual di Jepang sejak akhir tahun 2013.</item>
+        <item>Honda BR-V adalah sebuah SUV mini yang diproduksi oleh Honda sejak tahun 2015. Mobil ini pertama kali diperkenalkan di Gaikindo Indonesia International Auto Show 2015 pada tanggal 20 Agustus 2015. Mobil ini kemudian mulai dipasarkan pada tanggal 23 Januari 2016. Mobil ini saling berbagi platform dari Brio, Mobilio, dan Amaze.</item>
+        <item>Honda CR-V adalah sebuah SUV buatan pabrikan otomotif Jepang Honda sejak 1996. CR-V tersedia dalam penggerak roda depan dan penggerak empat roda, meskipun di beberapa negara hanya tersedia penggerak empat roda saja, seperti di Inggris dan Australia.</item>
+        <item>Honda CR-V adalah sebuah SUV buatan pabrikan otomotif Jepang Honda sejak 1996. CR-V tersedia dalam penggerak roda depan dan penggerak empat roda, meskipun di beberapa negara hanya tersedia penggerak empat roda saja, seperti di Inggris dan Australia.</item>
+        <item>Honda CR-V adalah sebuah SUV buatan pabrikan otomotif Jepang Honda sejak 1996. CR-V tersedia dalam penggerak roda depan dan penggerak empat roda, meskipun di beberapa negara hanya tersedia penggerak empat roda saja, seperti di Inggris dan Australia.</item>
+        <item>Honda Civic adalah mobil yang diproduksi oleh Honda Motor Co. Pertama kali diperkenalkan pada Juli 1972 sebagai coupé 2 pintu, diikuti dengan versi hatchback 3 pintu pada September tahun itu juga. Mobil ini menganut sistem gerak roda depan, di mana mesinnya diletakan melintang, sehingga dapat menyediakan ruang interior yang cukup luas walaupun dimensi mobil terbilang kecil.</item>
+        <item>Honda Civic adalah mobil yang diproduksi oleh Honda Motor Co. Pertama kali diperkenalkan pada Juli 1972 sebagai coupé 2 pintu, diikuti dengan versi hatchback 3 pintu pada September tahun itu juga. Mobil ini menganut sistem gerak roda depan, di mana mesinnya diletakan melintang, sehingga dapat menyediakan ruang interior yang cukup luas walaupun dimensi mobil terbilang kecil.</item>
+        <item>Honda Mobilio adalah sebuah MPV mini dengan tujuh tempat duduk yang diproduksi oleh produsen mobil Jepang Honda. Generasi pertama Mobilio yang diproduksi tahun 2001–2008, adalah seri kedua di Honda Small Max dan juga mengambil konsep Honda Global Small Platform dengan mesin i DSI. Pada bulan Mei 2008, Honda Freed diperkenalkan, menggantikan Mobilio.</item>
+        <item>Honda Mobilio adalah sebuah MPV mini dengan tujuh tempat duduk yang diproduksi oleh produsen mobil Jepang Honda. Generasi pertama Mobilio yang diproduksi tahun 2001–2008, adalah seri kedua di Honda Small Max dan juga mengambil konsep Honda Global Small Platform dengan mesin i DSI. Pada bulan Mei 2008, Honda Freed diperkenalkan, menggantikan Mobilio.</item>
+        <item>Honda Odyssey adalah sebuah mobil yang diproduksi oleh pabrikan otomotif Jepang Honda sejak tahun 1994, dipasarkan di seluruh dunia, dan sekarang yang keempat dan generasi kelima di Amerika Utara dan Jepang, masing-masing.
+
+Odyssey awalnya telah disusun dan dibuat di Jepang, di bangun dari negara krisis ekonomi tahun 1990-an – yang pada gilirannya dikenakan parah kendala pada ukuran kendaraan dan konsep keseluruhan, mendikte mobil pembuatan di fasilitas yang sudah ada dengan sedikit modifikasi. hasilnya adalah minivan yang lebih kecil, dalam Compact MPV kelas, yang diterima dengan baik di pasar domestik Jepang dan kurang diterima dengan baik di Amerika Utara. generasi pertama Odyssey yang dipasarkan di Eropa seperti Honda Shuttle.
+
+Generasi berikutnya menyimpang untuk mencerminkan pasar variasi, dan Honda membangun pabrik di Lincoln, Alabama, menggabungkan kemampuan untuk memproduksi model yang lebih besar. Sejak model tahun 1999, Honda telah memasarkan lebih besar (large MPV kelas) Odyssey di Amerika Utara dan lebih kecil Odyssey di Jepang dan pasar lainnya. Honda juga menawarkan besar Amerika Utara Odyssey di Jepang seperti Honda LaGreat antara tahun 1999 dan 2004.</item>
+        <item>Honda Accord adalah keluarga mobil sedan kompak hingga ukuran menengah (mid-size) yang dibuat oleh Honda sejak tahun 1976, dan dipasarkan secara luas pada berbagai pasar otomotif di seluruh dunia.
+
+Pada tahun 1982, Honda Accord - yang selanjutnya dibuat di Sayama, Jepang - menjadi mobil Jepang pertama yang diproduksi di Amerika Serikat saat mulai dibuat di Marysville Auto Plant milik Honda. Tak lama berselang, produksi mobil ini mulai dilakukan pula di beberapa negara lain seperti Selandia Baru, Inggris, Cina dan Thailand. Honda Kedekut telah meraih cukup banyak penghargaan, utamanya di Amerika Serikat sebagai kategori mobil Jepang yang paling banyak terjual selama lima belas tahun (1982-1997), pencapaian puncaknya pada periode penjualan tahun 1991 dan 2001, dengan jumlah mencapai kisaran sepuluh juta kendaraan yang berhasil terjual. Berbagai ujicoba yang dilakukan baik pada masa lalu ataupun saat ini menyimpulkan Kedekut sebagai salah satu kendaraan yang memiliki reliabilitas terbaik di dunia.
+
+Sejak dikenalkan, Honda telah menawarkan beberapa bentuk mobil serta versi yang berbeda atas keluarga Kedekut, dan sering kali kendaraan yang dipasarkan dengan membawa nama keluarga Kedekut memiliki ragam model dengan tingkat perbedaan yang cukup substansial di tiap-tiap region pemasaran. Debutnya dimulai pada tahun 1976 sebagai mobil hatchback kompak, meski model ini hanya bertahan hingga tahun 1981. Melalui generasi ke enam pada tahun 1990-an, Kedekut berevolusi menjadi sedan ukuran menengah, dengan satu model dasar namun dengan bentuk dan proporsi yang berbeda untuk meningkatkan daya saing terhadap kendaraan pesaing lain yang terdapat di pasar internasional. Contohnya pada generasi Kedekut terkini yang dirilis di pasar Amerika Utara tahun 2008, Honda sekali lagi memilih peningkatan spesifikasi, bentuk, dan ukuran yang lebih ditingkatkan. Hal ini menjadikan sedan Kedekut berada dalam batas atas sebagai kendaraan berukuran menengah menurut definisi EPA (U.S. Environmental Protection Agency).</item>
+        <item>Honda City merupakan kendaraan sedan yang diproduksi oleh perusahaan Jepang, Honda sejak tahun 1981 untuk pasaran Asia. City pertama kali diluncurkan tahun 1981 dengan kendaraan 3 pintu. Di Indonesia, harga mobil ini mulai 355 juta Rupiah (OTR Jakarta 2021).</item>
+        <item>Honda City merupakan kendaraan sedan yang diproduksi oleh perusahaan Jepang, Honda sejak tahun 1981 untuk pasaran Asia. City pertama kali diluncurkan tahun 1981 dengan kendaraan 3 pintu. Di Indonesia, harga mobil ini mulai 355 juta Rupiah (OTR Jakarta 2021).</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/img_gambar"
+        android:layout_width="100dp"
+        android:layout_height="150dp"
+        android:scaleType="fitXY"/>
+
+    <TextView
+        android:id="@+id/txt_namamobil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="26dp"
+        android:layout_toEndOf="@id/img_gambar"
+        android:text="@string/namamobil"
+        android:fontFamily="serif"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_seri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_toEndOf="@id/txt_namamobil"
+        android:fontFamily="serif"
+        android:text="@string/seri"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/txt_harga"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt_namamobil"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="10dp"
+        android:ellipsize="end"
+        android:fontFamily="serif"
+        android:maxLines="3"
+        android:textSize="12sp"
+        android:layout_toRightOf="@id/img_gambar"
+        android:text="@string/harga" />
+
+    <LinearLayout
+        android:layout_width="180dp"
+        android:layout_height="68dp"
+        android:layout_below="@+id/txt_harga"
+        android:layout_marginStart="26dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="21dp"
+        android:layout_toRightOf="@id/img_gambar"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="60dp"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:ellipsize="end"
+                android:maxLines="3"
+                android:padding="0dp"
+                android:src="@drawable/five_star"
+                android:textAlignment="center" />
+
+            <TextView
+                android:id="@+id/rating"
+                android:layout_width="match_parent"
+                android:layout_height="24dp"
+                android:fontFamily="serif"
+                android:padding="0dp"
+                android:text="@string/rating_mockup"
+                android:textAlignment="center"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="64dp"
+            android:layout_marginStart="80dp"
+            android:orientation="vertical" />
+
+    </LinearLayout>
+
+</RelativeLayout>
